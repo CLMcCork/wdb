@@ -1,3 +1,4 @@
+//web dev bootcamp code along
 "use strict";
 
 let maximum = parseInt(prompt("Enter the maximum number!"));
